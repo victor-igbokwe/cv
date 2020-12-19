@@ -1,0 +1,35 @@
+	hr {
+		border:dotted #EAF6F6 6px;
+		border-bottom: none;
+		width: 5%;
+	}
+	a,h1,h3,p {
+		color: white;
+	}
+	td,li {
+		color: silver;
+	}
+	img {
+		border-radius: 50%;
+		width: 200px;
+		height: 200px;
+	}
+	
+
+@media (max-width: 720px) {
+	body {
+		margin: auto;
+	}
+
+	hr {
+		border:dotted #EAF6F6 6px;
+		border-bottom: none;
+		width: 55%;
+	}
+
+	tr {
+		width: 100%;
+	}
+
+}
+
